@@ -1,7 +1,6 @@
 # Flip
 
-Description:
-The name of the Game is FLIP. This flipping card game is a fast-paced memory challenge where
+This flipping card game is a fast-paced memory challenge where
 players can turn over as many cards as they want in a limited amount of time. The goal is simple:
 tap on the cards and flip them over. However, there is a twist – the cards return to their original state
 after a short period of time, adding a new challenge to the game.
