@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flip</string>
+    <string name="timer">00:15</string>
+    <string name="imagedesc">Image</string>
+    <string name="Over">Game Over!</string>
+    <string name="find_the_pairs">Flip as fast as you can!</string>
+    <string name="well_done">Well Done!</string>
+</resources>
